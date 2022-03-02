@@ -1,0 +1,45 @@
+*{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+.search{
+    background: #f3ecec;
+}
+.search h1{
+    font-size: 20px;
+}
+#search-input{
+    display: block;
+    margin: 0 auto;
+    width: 340px;
+}
+footer {
+    display: flex;
+    text-align: center;
+}
+.left{
+    background: #80faf0;
+    width: 30%;
+}
+.left a{
+    display: block;
+}
+.center{
+    width: 20%;
+    background: #60f3e7;
+}
+.center a{
+    display: block;
+}
+.right{
+    width: 50%;
+    background: #41e4d6;
+}
+#mail{
+    display: block;
+    margin: 0 auto;
+    width: 250px;
+    text-align: left;
+    font-weight: bold;
+}
